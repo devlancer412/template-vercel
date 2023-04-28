@@ -1,16 +1,22 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "The Virus",
+  "name": "The_Virus",
+  "ascii": "The Virus",
   "social": {
     "github": "github",
-    "linkedin": "linkedin"
+    "linkedin": "linkedin",
+    "twitter": "https://twitter.com/BoredApeYC",
+    "resume": "https://twitter.com/BoredApeYC",
+    "opensea": "https://opensea.io",
+    "blur": "https://blur.io",
+     "wallet": " https://etherscan.io/address/0xd8da6bf26964af9d7eed9e03e53415d37aa9604",
+     "mint": "https://twitter.com/BoredApeYC"
   },
   "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "ps1_hostname": "The Virus",
+  "ps1_username": "Survivor",
+  "repo": "https://www.google.com/search?q=aaargh+real+monsters&rlz=1C1RXQR_enAU1017AU1017&sxsrf=APwXEddSuEBg-_L-8pBj6_14DwAi4xiT1Q:1682405204047&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXvrjkt8T-AhXSD94KHRopAvoQ_AUoAXoECAEQAw&biw=1536&bih=656&dpr=1.25",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
